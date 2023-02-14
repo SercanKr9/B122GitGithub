@@ -1,5 +1,9 @@
 Git-Github ikinci gün
 ikinci deneme
 ücüncü deneme/Branch uygulamalari
+<<<<<<< Updated upstream
 master branch
 
+=======
+dördüncü deneme/ stash kodu....
+>>>>>>> Stashed changes
