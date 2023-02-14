@@ -5,3 +5,4 @@ master bransch
 Github push
 New Branch--Ismi Gül
 Yenilik
+Github dan ekleme
