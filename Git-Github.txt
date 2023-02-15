@@ -8,3 +8,4 @@ Yenilik
 Github dan yeni bir ekleme
 ikinci ekleme
 B118 dersini dinliyorum
+visual code baglantisi da tamamlandi
