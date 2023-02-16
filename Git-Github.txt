@@ -12,4 +12,5 @@ visual code baglantisi da tamamlandi
 Conflict olusturmak istiyoruz
 Catisma cikmadi
 az kaldi cikiyor
+valla yoruldum
 
