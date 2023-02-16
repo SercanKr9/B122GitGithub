@@ -11,3 +11,5 @@ B118 dersini dinliyorum
 visual code baglantisi da tamamlandi
 Conflict olusturmak istiyoruz
 Catisma cikmadi
+az kaldi cikiyor
+
